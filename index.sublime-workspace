@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"all\tposition"
+			],
+			[
+				"bg",
+				"background\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"bt",
+				"btn-lg"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"nav",
+				"navebar"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "vie",
+		"selected_items":
+		[
+			[
+				"vie",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/wordpress/readme.html",
+		"//KEILA-NOTE/Users/Oséias/projeto_curso_git/.git/config",
+		"/C/Users/Oséias/Downloads/brModelo(2).jar",
+		"/C/xampp/htdocs/public_html/index.html",
+		"/C/xampp/htdocs/public_html/elements.html",
+		"/C/xampp/htdocs/public_html/css/style.css",
+		"/C/xampp/htdocs/public_html/single-trainer.html",
+		"/C/xampp/htdocs/sitepri/about.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Oséias/Desktop/aulas/tarefaforum.html",
+		"/C/xampp/htdocs/sequencia_fibonacci.php",
+		"/C/xampp/htdocs/Site Pri/hexagon/404.php",
+		"/C/xampp/htdocs/Site Pri/hexagon/index.php",
+		"/C/Users/Oséias/Desktop/Keila Docs/TI/Introd. desenv/tarefa_forum.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Projeto aula/arquivo.html",
+		"/C/Users/Oséias/Pictures/titulo.jpg",
+		"/C/xampp/htdocs/fibonacci.php",
+		"/C/Users/Oséias/Desktop/calculadora/index.html",
+		"/C/Users/Oséias/Desktop/calculadora/calcular.php",
+		"/C/xampp/htdocs/teste/home.php",
+		"/C/xampp/htdocs/teste/ordemdecompra.php",
+		"/C/xampp/htdocs/teste/produto3.php",
+		"/C/xampp/htdocs/teste/produto1.php",
+		"/C/xampp/htdocs/teste/produto2.php",
+		"/C/Users/Oséias/Desktop/Site/twitter_clone/inscrevase.php",
+		"/C/Users/Oséias/Desktop/criando_funcoes.php",
+		"/C/Users/Oséias/Desktop/home.php",
+		"/C/Users/Oséias/Desktop/ProjetoBootstrap/projeto-inicial-spotify/index.html",
+		"/C/Users/Oséias/Desktop/eventos_janela.html",
+		"/C/Users/Oséias/Desktop/ProjetoBootstrap/projeto-inicial-spotify/estilo.css",
+		"/C/Users/Oséias/Desktop/TecBlog/eletronicos.html",
+		"/C/Users/Oséias/Desktop/TecBlog/games.html",
+		"/C/Users/Oséias/Desktop/Css3/normalize.css",
+		"/C/Users/Oséias/Desktop/Html 5/novas-tags.html",
+		"/C/Users/Oséias/Desktop/TecBlog/css/estilo.css",
+		"/C/Users/Oséias/Desktop/Projeto aula/css/inline_style.html",
+		"/C/Users/Oséias/Desktop/TecBlog/index.html",
+		"/C/Users/Oséias/Desktop/Projeto aula/css/posicionamento.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Desenvolvimentos/Primeiro Projeto/tabela.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Desenvolvimentos/Primeiro Projeto/formularios.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Desenvolvimentos/tabela.html",
+		"/C/Users/Oséias/Desktop/Projeto aula/css/esetlo.css",
+		"/C/Users/Oséias/Desktop/Keila Docs/Primeiro Projeto/sobreaempresa.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Primeiro Projeto/index.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Primeiro Projeto/Contato.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Primeiro Projeto/tabela.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Primeiro Projeto/PhP/mensagens_divertidas.php",
+		"/C/Users/Oséias/Desktop/Projeto aula/index.html",
+		"/C/Users/Oséias/Desktop/Keila Docs/Apache24/htdocs/catalogo_produtos.php",
+		"/C/Users/Oséias/Desktop/Projeto Aula/arquiv.html",
+		"/C/Users/Oséias/Desktop/Projeto Aula/css/estilo.css",
+		"/C/Users/Oséias/Desktop/Projeto Aula/index.html",
+		"/C/Users/Oséias/Desktop/Projeto Aula/css",
+		"/C/Users/Oséias/Desktop/ProgramasPhp/ola",
+		"/C/Users/Oséias/Desktop/ProgramasPhp/ola.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
